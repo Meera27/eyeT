@@ -1,0 +1,62 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "firstName": "John",
+      "lastName": "Doe",
+      "email": "john@example.com",
+      "password": "password123",
+      "phoneNumber": "1234567890",
+      "gender": "Male",
+      "dateOfBirth": "1990-01-01"
+    },
+    {
+      "id": "2",
+      "firstName": "Jane",
+      "lastName": "Smith",
+      "email": "jane@example.com",
+      "password": "password456",
+      "phoneNumber": "9876543210",
+      "gender": "Female",
+      "dateOfBirth": "1992-05-15"
+    },
+    {
+      "id": "3d4c",
+      "firstName": "hellon",
+      "lastName": "ir",
+      "email": "me@gmail.com",
+      "password": "heetha@5655",
+      "phoneNumber": "5432134567",
+      "gender": "Male",
+      "dateOfBirth": "2003-11-12"
+    },
+    {
+      "id": "0ee9",
+      "firstName": "rishi",
+      "lastName": "r",
+      "email": "qwer@qwe.in",
+      "password": "123456",
+      "phoneNumber": "9999999999",
+      "gender": "Female",
+      "dateOfBirth": "0007-07-07"
+    }
+  ],
+  "eyeTests": [
+    {
+      "id": "1",
+      "userId": 1,
+      "date": "2024-02-01",
+      "result": "20/20",
+      "recommendations": "Take regular breaks"
+    }
+  ],
+  "appointments": [
+    {
+      "id": "1",
+      "userId": 2,
+      "date": "2024-02-15",
+      "time": "10:00",
+      "status": "scheduled"
+    }
+  ]
+}
