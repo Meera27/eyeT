@@ -8,7 +8,8 @@
     "build": "vite build",
     "preview": "vite preview",
     "lint": "eslint . --fix",
-    "api": "json-server --watch src/api/db.json --port 3000"
+    "api": "json-server --watch src/api/db.json --port 3000",
+    "serve": "json-server --watch src/api/eye.json --port 6001"
 
   },
   "dependencies": {

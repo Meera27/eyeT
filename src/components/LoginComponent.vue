@@ -1,7 +1,7 @@
 <template>
     <div class="login-page">
         <div class="illustration-side">
-            <img src="@/assets/6333040.jpg" alt="Login" class="login-image" />
+            <img src="@/assets/images/6333040.jpg" alt="Login" class="login-image" />
             <h1 class="brand-text">eye<span>T</span></h1>
         </div>
         <div class="form-side">

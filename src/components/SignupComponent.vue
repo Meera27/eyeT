@@ -61,7 +61,7 @@
             </div>
         </div>
         <div class="illustration-side">
-            <img src="@/assets/2903548.jpg" alt="Signup" class="signup-image" />
+            <img src="@/assets/images/2903548.jpg" alt="Signup" class="signup-image" />
             <h1 class="brand-text">eye<span>T</span></h1>
         </div>
     </div>
