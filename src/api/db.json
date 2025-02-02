@@ -39,6 +39,26 @@
       "phoneNumber": "9999999999",
       "gender": "Female",
       "dateOfBirth": "0007-07-07"
+    },
+    {
+      "firstName": "meera",
+      "lastName": "nair",
+      "email": "meer@gmail.com",
+      "password": "Geethamura",
+      "dateOfBirth": "1999-04-03",
+      "phoneNumber": "5143234566",
+      "gender": "Male",
+      "id": "Fm5fttp"
+    },
+    {
+      "firstName": "meera",
+      "lastName": "nair",
+      "email": "meera@gmail.com",
+      "password": "meera@1234",
+      "dateOfBirth": "2014-07-15",
+      "phoneNumber": "5143234567",
+      "gender": "Female",
+      "id": "yBmCvYV"
     }
   ],
   "eyeTests": [
