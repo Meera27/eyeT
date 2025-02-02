@@ -92,7 +92,6 @@ python manage.py runserver
 Project Structure
 
 ```
-
 ├── src/
 │ ├── components/ # Vue components
 │ ├── pages/ # Page components
@@ -102,21 +101,4 @@ Project Structure
 ├── backend/
 │ ├── accounts/ # User management
 │ └── eyeT/ # Main Django app
-
-```
-
-```
-
-```
-
-```
-
-```
-
-```
-
-```
-
-```
-
 ```
