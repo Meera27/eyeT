@@ -1,4 +1,4 @@
-# eyeT - Eye Health Monitoring System
+# eye-T - Eye Health Monitoring System
 
 ## Problem Statement
 
