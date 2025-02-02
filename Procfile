@@ -1,1 +1,1 @@
-web: gunicorn eyeT.wsgi --log-file -
+web: gunicorn eyeT.wsgi:application
